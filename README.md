@@ -1,4 +1,14 @@
+![banner](https://images.wallpapersden.com/image/download/pixel-art-night-cityscape_bGZsbWmUmZqaraWkpJRobWllrWdma2U.jpg)
+
+---
+
 <h1 align="center">Hey, soy Iñaki 👋</h1>
+
+---
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXNld2MwYmwyb3ZhMmJ0NWQydHA4MHhjOWJjNmxpanpsd3NtYXE4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VJTAhOzkmy7620OMK8/giphy.gif" width="250"/>
+</p>
 
 <p align="center">
   Estudiante de desarrollo de software · Último año · En busca de mi primer trabajo en IT
