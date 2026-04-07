@@ -29,18 +29,6 @@ Estoy terminando la carrera de desarrollo de software y durante estos años trab
 
 ---
 
-### 📂 Proyectos destacados
-
-| Proyecto | Descripción | Stack |
-|---|---|---|
-| 🎮 [Pokémon App](#) | Aplicación que consume la PokéAPI con búsqueda, filtros y guardado de favoritos en localStorage | JS · HTML · CSS |
-| 🏗️ [Sistema MVC en Java](#) | Aplicación de gestión desarrollada aplicando arquitectura Modelo-Vista-Controlador | Java |
-| 🕹️ [Proyectos en Unity](#) | Mecánicas de juego, lógica de interacción y sistemas de puntuación | C# · Unity |
-
-> Los repositorios están en orden, con README propio en cada uno.
-
----
-
 ### 📌 Actualmente
 
 - Reforzando JavaScript (asincronía, fetch, manejo de errores)
@@ -52,15 +40,6 @@ Estoy terminando la carrera de desarrollo de software y durante estos años trab
 ### 🎯 Objetivo profesional
 
 Busco una primera experiencia en desarrollo donde pueda aportar desde el día uno y seguir creciendo. Me adapto rápido, me gusta entender el código que escribo y no le tengo miedo a lo que no sé todavía.
-
----
-
-### 📊 Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Iñaki&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kako&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
