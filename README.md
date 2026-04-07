@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/kakovelo/kakovelo/main/Banner.png" width="100%" />
+<img src="https://raw.githubusercontent.com/kakovelo/kakovelo/main/Banner.png" width="90%" />
 
 ---
 
