@@ -60,3 +60,9 @@ Busco una primera experiencia en desarrollo donde pueda aportar desde el día un
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+---
+
+### 💻 Proyectos
+
+Podés ver mis proyectos directamente en mis repositorios 👇
