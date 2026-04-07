@@ -1,4 +1,4 @@
-![banner](./banner.png)
+<img src="https://raw.githubusercontent.com/kakovelo/kakovelo/main/Banner.png" width="100%" />
 
 ---
 
